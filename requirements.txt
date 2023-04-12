@@ -1,0 +1,7 @@
+# Django
+Django==3.2
+djangorestframework==3.14.0
+
+# Magic
+python-magic-bin==0.4.14
+
