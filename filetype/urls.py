@@ -20,5 +20,5 @@ from filetype_app.views import FileView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('file/', FileView.as_view()),
+    path('', FileView.as_view()),
 ]
